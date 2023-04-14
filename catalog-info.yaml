@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: NodeJS Test App
+  description: A component for testing backstage.
+  tags:
+    - node
+spec:
+  type: service
+  lifecycle: experimental
+  owner: zeko-team

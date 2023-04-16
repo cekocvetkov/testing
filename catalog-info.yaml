@@ -5,8 +5,8 @@ metadata:
   description: A component for testing backstage.
   tags:
     - node
-  annotations:
-    github.com/project-slug: cekocvetkov/testing
+#   annotations:
+#     github.com/project-slug: cekocvetkov/testing
 spec:
   type: service
   lifecycle: experimental
